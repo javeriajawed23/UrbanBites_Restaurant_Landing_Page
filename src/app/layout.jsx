@@ -4,7 +4,7 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Bella Vista - Fine Dining Restaurant",
+  title: "Urban Bites - Fine Dining Restaurant",
   description:
     "Experience exceptional cuisine in an elegant atmosphere. Fresh ingredients, masterful preparation, unforgettable dining.",
 };
